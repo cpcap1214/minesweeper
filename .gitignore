@@ -1,0 +1,10 @@
+# 報告只留在本機，不上傳到 GitHub
+REPORT.md
+docs/
+
+# Xcode 建置產物
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.DS_Store
